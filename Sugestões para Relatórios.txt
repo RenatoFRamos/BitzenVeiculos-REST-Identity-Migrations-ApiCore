@@ -1,0 +1,11 @@
+Cruzar dados de características do veículo, idade do comprador, valor de compra, valor de venda, quantidade de transações e período do ano.
+Identificando tendências de mercado.
+
+Performance de vendas vendedor / Total vendido. (no mês e comparando com o mês anterior)
+
+Cruzar oportunidades criadas / aceitas ... por vendedor
+
+
+
+
+
